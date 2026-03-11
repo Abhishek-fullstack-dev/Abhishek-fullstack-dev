@@ -123,7 +123,7 @@ Stateless JWT authentication microservice with Spring Security, RBAC, BCrypt pas
 
 <div align="center">
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-fullstack-dev&show_icons=true&theme=dark&title_color=FF4444&icon_color=FF4444&hide_border=true&bg_color=0D1117)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-fullstack-dev&show_icons=true&theme=dark&title_color=FF4444&icon_color=FF4444&hide_border=true&bg_color=0D1117&hide_rank=true&show=reviews,discussions_started)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-fullstack-dev&layout=compact&theme=dark&title_color=FF4444&hide_border=true&bg_color=0D1117)
 
